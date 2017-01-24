@@ -1,3 +1,3 @@
 <?php
-if isset($_GET['user']) echo 1111;
+if (isset($_GET['user'])) echo 1111;
 ?>
